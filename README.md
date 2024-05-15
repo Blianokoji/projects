@@ -22,6 +22,7 @@ Here's a list of projects available in this repository:
 1. [tic-tac-toe] - This implements a simple console based tic tac toe game in python.
 2. [snake game] - It implements a simple console based snake game using C++.
 3. [sudoku-solver] - It implements a simple console based sudoku puzzle solver in C.
+4.  [flappy bird] - This implements a flappy bird game using pygames in python.
 
 Each project directory contains its own README.md file with detailed information on the project, including how to set it up, use it, and contribute.
 
